@@ -1,9 +1,14 @@
 # Trabajo practico de la materia Sistemas Operativos, 1C 2022.
 
-Consiste en un simulador de sistema operativo hecho un Linux. Simula el comportamiento de un SO en la ejecucion de instrucciones basicas, su planificacion y gestion de memoria. Se implementan comunicaciones mediante sockets entre los clientes/servidores: memoria, kernel, cpu y consolas. Se implementa ejecucion en multiples hilos en cada modulo. 
+Consiste en un simulador de sistema operativo hecho en Linux. 
+Simula el comportamiento de un SO en la ejecucion de instrucciones basicas, su planificacion y gestion de memoria. 
+Se implementan comunicaciones mediante sockets entre los clientes/servidores: memoria, kernel, cpu y consolas. 
+Se implementa ejecucion en multiples hilos en cada modulo. 
 
 --------- Links ----------
+
 Enunciado: https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit
+
 Pruebas: https://docs.google.com/document/d/1SBBTCweMCiBg6TPTt7zxdinRh4ealRasbu0bVlkty5o/edit
 
 ----- Como ejecutar ------
